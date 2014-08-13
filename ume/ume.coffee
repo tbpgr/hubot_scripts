@@ -1,5 +1,5 @@
 # Description
-#   Output empty line
+#   Output empty lines
 #
 # Dependencies:
 #   None
