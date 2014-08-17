@@ -4,8 +4,6 @@
 
 ### respond: qiita_new
 
-* Default, uem output 15 empty lines.
-
 ~~~bash
 Hubot> title:Project Eulerをhaskellで練習していく日記: Problem 2
 Hubot> author:hiroshi75
