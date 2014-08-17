@@ -7,3 +7,4 @@
 |[chusen](./chusen)|抽選。任意の文字列のリストを与えるとランダムで一つを返す|
 |[gitlab_sample](./gitlab_sample)|GitLabのWeb Hookとの連携サンプル|
 |[qiita_new](./qiita_new)|Qiitaの最新記事をランダムに取得する|
+|[codeiq_new](./codeiq_new)|CodeIQの新着問題をRSSより取得する|
