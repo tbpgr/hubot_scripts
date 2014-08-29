@@ -10,5 +10,6 @@
 |[gitlab_api_sample](./gitlab_api_sample)|GitLab APIの連携サンプル|
 |[gitlab_ci_sample](./gitlab_ci_sample)|GitLab CIのWeb Hookとの連携サンプル|
 |[gitlab_sample](./gitlab_sample)|GitLabのWeb Hookとの連携サンプル|
+|[photozou](./photozou)|フォト蔵APIからキーワードのURLをランダムに取得する|
 |[qiita_new](./qiita_new)|Qiitaの最新記事をランダムに取得する|
 |[ume](./ume)|空行を任意の行数出力する。省略すると15行出力。埋め。|
