@@ -7,6 +7,7 @@
 |[codeiq_new](./codeiq_new)|CodeIQの新着問題をRSSより取得する|
 |[codeiq_ploblems](./codeiq_ploblems)|CodeIQのデスマコロシアムのURLを返却する|
 |[daytopic](./daytopic)|「今日は何の日」API の結果を取得する|
+|[execute_external_command](./execute_external_command)|外部コマンドの実行|
 |[gitlab_api_sample](./gitlab_api_sample)|GitLab APIの連携サンプル|
 |[gitlab_ci_sample](./gitlab_ci_sample)|GitLab CIのWeb Hookとの連携サンプル|
 |[gitlab_sample](./gitlab_sample)|GitLabのWeb Hookとの連携サンプル|
